@@ -8,12 +8,9 @@
 
 <h2 align="center">Hi 👋, I'm Miłosz</h2>
 
-###
 
 <h3 align="center">🙎🏻‍♂️ About me</h3>
-<img align="right" height="150" src="https://media.licdn.com/dms/image/C5603AQF7wNoUU4m60A/profile-displayphoto-shrink_200_200/0/1649435294472?e=1726099200&v=beta&t=0F5fsv6A_cZl36Rgqtik4uLsRSRouiGDYh5mshV6X0c" draggable=false  />
 
-###
 
 <h3 align="left">An ambitious full-stack developer who isn't afraid of any challenges. Programming is my passion, and I thrive in a dynamic and fast-changing technological environment. I excel both in team collaborations and in executing individual projects. My skills and dedication enable me to effectively bridge the gap between frontend and backend, creating modern and functional applications.</p>
 
@@ -46,7 +43,7 @@
 <div align="center">
   <img src="https://skillicons.dev/icons?i=react" height="40" alt="react logo" title="React / React native" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=redux" height="40" alt="redux logo" title="Redux" />
+  <img src="https://skillicons.dev/icons?i=vue" height="40" alt="vue logo" title="Vue" />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=jquery" height="40" alt="jquery logo" title="jQuery"  />
   <img width="12" />
@@ -103,9 +100,6 @@
 </a>
 </div>
 
-###
-
-<img src="https://raw.githubusercontent.com/milosz1532/milosz1532/output/snake.svg" alt="Snake animation" />
 
 ###
 
